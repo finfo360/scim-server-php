@@ -4,14 +4,14 @@
     "type": "library",
     "require": {
         "slim/slim": "^4.10",
-        "illuminate/database": "^8.83",
-        "php": "^7.4",
+        "illuminate/database": "^11",
+        "php": "^8",
         "slim/php-view": "^3.1",
         "monolog/monolog": "^2.4",
         "ramsey/uuid": "^4.2",
         "slim/psr7": "^1.5",
-        "php-di/php-di": "^6.3",
-        "firebase/php-jwt": "^6.3",
+        "php-di/php-di": "^7.0",
+        "firebase/php-jwt": "^6.10",
         "coenjacobs/mozart": "^0.7.1"
     },
     "autoload": {
